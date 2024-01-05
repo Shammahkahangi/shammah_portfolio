@@ -1,4 +1,4 @@
-import {  iconsdiamond ,shopify, starbucks, tesla, iconskkey} from "../assets/images";
+import {  iconsdiamond , iconskkey} from "../assets/images";
 import {
     car,
     contact,
@@ -135,7 +135,7 @@ export const experiences = [
             "Developing and maintaining web applications using React.js and other related technologies. for a money lending institution",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+         
         ],
     },
     
@@ -146,7 +146,7 @@ export const socialLinks = [
     {
         name: 'Contact',
         iconUrl: contact,
-        link: '',
+        link: '+256773048864',
     },
     {
         name: 'GitHub',

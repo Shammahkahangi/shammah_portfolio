@@ -91,6 +91,7 @@ const Home = () => {
           rotation={[0, 20, 0]}
           />
         </Suspense>
+        
       </Canvas>
 
       <div className="absoulute bottom-2 left-2">
