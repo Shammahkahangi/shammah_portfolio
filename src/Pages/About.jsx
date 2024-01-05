@@ -9,9 +9,7 @@ const About = () => {
     <section className="max-container">
 
 
-      <div className='relative mb-5 '>
-      <img src="src\assets\images\IMG_8736.jpeg" alt="Shammah Kahangi" className="w-[400px] h-[400px] max-h-90 object-cover rounded-md border-4 border-gray-500" />
-      </div>
+      
       <h1 className="headtext">
         Hello, I'm<span className="blue-gradient_text font-semibold drop-shadow"> SHAMMAH KAHANGI</span>
       </h1>
